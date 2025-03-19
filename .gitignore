@@ -1,0 +1,11 @@
+# Ignorar archivos temporales de Windows
+Thumbs.db
+.DS_Store
+
+# Ignorar carpetas de VS Code
+.vscode/
+
+# Ignorar archivos binarios o compilados
+*.exe
+*.out
+*.o

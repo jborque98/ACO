@@ -2,4 +2,4 @@ hola, viva soria
 viva soria
 
 que pasa jefe
-viva soria
+viva soriatouch .gitignore
